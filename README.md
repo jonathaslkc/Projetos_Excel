@@ -139,4 +139,53 @@ Projetos Acadêmicos desenvolvidos na ferramenta Microsoft Excel
     "=MÁXIMO" e "=MÁXIMOSES"
     "=MÍNIMO" e "=MÍNIMOSES"
 
-3. 
+3. Procv: Lógica booleana e busca por valores
+  Demanda da loja, criar painel de pesquisa e painel de vendas com resumo.
+  Esconder partes da planilha
+
+    A primeira aula deste nosso curso é voltada a apresentar ao aluno os conceitos de procura e os principais recursos do Excel para localizar informações.
+    Conceitos novos de funções
+    Caixa de Diálogo "Inserir Função"
+    Parâmetros da Função
+    Conceitos e Procura e Referência
+    Transpor
+    Procura Vertical vs Procura Horizontal
+    PROCV()
+    PROCH()
+    Usando funções aninhadas
+    PROCV() + CORRESP()
+    PROCH() + CORRESP()
+
+    Na segunda aula, trabalhamos com o conceito de procura "bi-dimenisonal", Um recurso muito usado no dia a dia.
+    Funções
+    DESLOC()
+    CORRESP()
+    ÍNDICE()
+    Funções aninhadas
+    Recursos Novos
+    Proteger / Desproteger planilha
+    Ocultar Funções
+    Esconder partes da planilha
+
+    A terceira aula é um passeio sobre o conceito de lógica no Excel e como ele pode ser muito útil no nosso trabalho diário.
+    Funcionamento geral da lógica no Excel
+    Teste lógico
+    Valores lógicos
+    Função SE()
+    Função SE() aninhada vs Função SES()
+    Relação entre testes lógicos
+    Tratamento de Erro
+    Função SEERRO()
+    Avaliação de fórmulas
+
+    Nesta quarta aula, mais que reforçar conceitos, fizemos algumas junções de conceitos já vistos anteriormente para criar novos conhecimentos para o aluno.
+    Validação de Dados + Lógica
+    Aprender a criar função para validar dados
+    Uso avançado de funções
+    Funções aninhadas + tratamento de erro
+    Funções de Lógica + Funções de Procura
+    Dicas e truques
+    Escondendo partes das fórmulas sem precisar ocultar
+    Fazendo funções "intermediárias" para obter resultados complexos
+
+4. 
