@@ -188,4 +188,56 @@ Projetos Acadêmicos desenvolvidos na ferramenta Microsoft Excel
     Escondendo partes das fórmulas sem precisar ocultar
     Fazendo funções "intermediárias" para obter resultados complexos
 
-4. 
+4. Excel: Tabela Dinâmica e Dashboard
+  Preparar painel visual dinâmico Dashboard com estatística
+
+    O que aprendemos nessa aula:
+    -O que é uma tabela dinâmica
+    -Como inserir uma tabela dinâmica
+    -Como organizar os campos no seletor de campos
+    -Atualização da origem da tabela
+
+    O que aprendemos nessa aula:
+    -Segmentação de Dados
+    -Linha do Tempo
+    -Alterar a localização da tabela dinâmica
+    -Integrando duas segmentações de dados
+    -Cuidados na mudança de localização
+    -Design de tabela
+    -Design de linha do tempo
+    -Configuração de campos
+
+    O que aprendemos nessa aula:
+    -Conceitos de "Dashboard"
+    -Utilizando gráficos dinâmicos
+    -Estruturando uma planilha como "Dashboard"
+    -Lógica de apresentação dos dados
+    -Buscando dados para o "Dashboard"
+    -Implementando a lógica de apresentação
+
+    O que aprendemos nessa aula:
+    -Pontos importantes na criação de "Dashboards"
+    -Dados brutos versus dados dinâmicos
+    -Uso avançado de linha do tempo
+    -Formatação condicional
+    -Precedência na formatação condicional
+    -Colocando regras no "Dashboard"
+
+    Revisões:
+    -Linha do tempo
+    -função Cont.SE
+    -Uso de coringa em funções
+    -Uso de nomes em funções
+
+    O que aprendemos nessa aula:
+    -Aumentando a área do "Dashboard"
+    -Criando vários painéis
+    -Estrutura de tópicos
+    -Incluindo alertas no "Dashboard"
+
+    Revisão:
+    -Função SE()
+    -Função MÉDIA()
+    -Uso de nomes
+
+5. 
