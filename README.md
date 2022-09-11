@@ -240,4 +240,56 @@ Projetos Acadêmicos desenvolvidos na ferramenta Microsoft Excel
     -Função MÉDIA()
     -Uso de nomes
 
-5. 
+5. Criação de Macros e Automatização de Tarefas
+Automatização com macros e VBA
+
+    O que aprendemos nessa aula:
+
+    O que é Macro e qual a diferença para VBA
+    Como mostrar a Guia “Desenvolvedor”
+    Como fazemos para Gravar Macro
+    Definir uma tecla de atalho para uma Macro
+    Colocar descrição em uma Macro
+    Criar um botão de comando para acionar as Macros
+    Necessidade de gravar a pasta como “xlsm” para habilitar as Macros
+
+
+    O que aprendemos nessa aula:
+
+    Revisão: Filtro Avançado
+    Automatização com macro de um filtro avançado
+    Revisão: Tabela Dinâmica
+    Automatização da atualização de uma tabela dinâmica
+    Visão Geral: Editor do Visual Basic
+    Edição de macros, usando VBA
+
+
+    O que aprendemos nessa aula:
+
+    Criar macros que “chamem” outras macros
+    Editar as macros para inserir comandos
+    Proteger as macros com a diretiva Private
+    Proteger as macros com a seleção de planilha
+    Comandos executados com macros não permitem ”Voltar” (CTRL+Z)
+    Criar menus personalizados
+    Ajustar as macros para serem usadas por menus
+
+
+    O que aprendemos nessa aula:
+
+    Utilizar o recurso de “Gravar Macro” para montar um código VBA
+    Destacar uma célula no código VBA
+    Dicas para evitar problemas com o comando Proteger Planilha
+    Usar macro para Proteger e Desproteger Planilha
+    Raciocínio lógico de pensar em cenários para o início do código
+
+
+    O que aprendemos nessa aula:
+
+    Emitir alertas no VBA usando MsgBox
+    Utilizar eventos de planilhas para iniciar uma automatização VBA
+    Usar o comando condicional IF (semelhante a função SE)
+    Verificar o valor da célula em um intervalo
+    Usar o objeto RANGE
+
+6. 
