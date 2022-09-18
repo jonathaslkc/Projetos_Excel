@@ -342,6 +342,24 @@ Usando ferramentas para analisar cenários e criação de simulações
     Validar dados nas células
     Atingir meta de valores
     
-7. Análise de Dados: Cálculos, padrões e estratégias com Excel
+8. Análise de Dados: Cálculos, padrões e estratégias com Excel
 Usando ferramentas estatísticas do Excel para realizar análise de dados
 
+    Estruturar um banco de dados em formato de planilha.
+    Transformar dados qualitativos em gráficos.
+    Transformar dados quantitativos em gráficos.
+    Visualizar dados que descrevem fenômenos ao longo do tempo.
+
+    Como resumir um conjunto de dados um um único número que seja representativo de todo o conjunto.
+    O número que separa o conjunto de dados ordenados em duas metades.
+    A técnica para calcular a média considerando apenas casos específicos de uma coluna.
+
+    Uma técnica intuitiva para compreender a variação de um conjunto de dados.
+    A medida de resumo de dados usada historicamente.
+    A medida de resumo de dados que preserva a unidade de medida original dos dados.
+
+    Transformar os dados originais em desvios-padrão e porque isso é muito útil.
+    Selecionar aleatoriamente uma amostra de um conjunto de dados.
+    Calcular frequências de intervalos específicos nos dados.
+    
+    
