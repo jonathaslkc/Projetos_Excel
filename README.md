@@ -362,4 +362,7 @@ Usando ferramentas estatísticas do Excel para realizar análise de dados
     Selecionar aleatoriamente uma amostra de um conjunto de dados.
     Calcular frequências de intervalos específicos nos dados.
     
-    
+    Como contar quantos valores ou casos temos em uma coluna.
+    Como obter um conjunto de estatísticas descritivas de uma só vez.
+    Uma ferramenta visual de análise rápida dos dados.
+    Uma ferramenta para obtenção instantânea de algumas estatísticas descritivas.
