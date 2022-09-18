@@ -191,13 +191,11 @@ Projetos Acadêmicos desenvolvidos na ferramenta Microsoft Excel
 4. Excel: Tabela Dinâmica e Dashboard
   Preparar painel visual dinâmico Dashboard com estatística
 
-    O que aprendemos nessa aula:
     -O que é uma tabela dinâmica
     -Como inserir uma tabela dinâmica
     -Como organizar os campos no seletor de campos
     -Atualização da origem da tabela
 
-    O que aprendemos nessa aula:
     -Segmentação de Dados
     -Linha do Tempo
     -Alterar a localização da tabela dinâmica
@@ -207,7 +205,6 @@ Projetos Acadêmicos desenvolvidos na ferramenta Microsoft Excel
     -Design de linha do tempo
     -Configuração de campos
 
-    O que aprendemos nessa aula:
     -Conceitos de "Dashboard"
     -Utilizando gráficos dinâmicos
     -Estruturando uma planilha como "Dashboard"
@@ -215,7 +212,6 @@ Projetos Acadêmicos desenvolvidos na ferramenta Microsoft Excel
     -Buscando dados para o "Dashboard"
     -Implementando a lógica de apresentação
 
-    O que aprendemos nessa aula:
     -Pontos importantes na criação de "Dashboards"
     -Dados brutos versus dados dinâmicos
     -Uso avançado de linha do tempo
@@ -229,7 +225,6 @@ Projetos Acadêmicos desenvolvidos na ferramenta Microsoft Excel
     -Uso de coringa em funções
     -Uso de nomes em funções
 
-    O que aprendemos nessa aula:
     -Aumentando a área do "Dashboard"
     -Criando vários painéis
     -Estrutura de tópicos
@@ -243,8 +238,6 @@ Projetos Acadêmicos desenvolvidos na ferramenta Microsoft Excel
 5. Criação de Macros e Automatização de Tarefas
 Automatização com macros e VBA
 
-    O que aprendemos nessa aula:
-
     O que é Macro e qual a diferença para VBA
     Como mostrar a Guia “Desenvolvedor”
     Como fazemos para Gravar Macro
@@ -253,18 +246,12 @@ Automatização com macros e VBA
     Criar um botão de comando para acionar as Macros
     Necessidade de gravar a pasta como “xlsm” para habilitar as Macros
 
-
-    O que aprendemos nessa aula:
-
     Revisão: Filtro Avançado
     Automatização com macro de um filtro avançado
     Revisão: Tabela Dinâmica
     Automatização da atualização de uma tabela dinâmica
     Visão Geral: Editor do Visual Basic
     Edição de macros, usando VBA
-
-
-    O que aprendemos nessa aula:
 
     Criar macros que “chamem” outras macros
     Editar as macros para inserir comandos
@@ -274,17 +261,11 @@ Automatização com macros e VBA
     Criar menus personalizados
     Ajustar as macros para serem usadas por menus
 
-
-    O que aprendemos nessa aula:
-
     Utilizar o recurso de “Gravar Macro” para montar um código VBA
     Destacar uma célula no código VBA
     Dicas para evitar problemas com o comando Proteger Planilha
     Usar macro para Proteger e Desproteger Planilha
     Raciocínio lógico de pensar em cenários para o início do código
-
-
-    O que aprendemos nessa aula:
 
     Emitir alertas no VBA usando MsgBox
     Utilizar eventos de planilhas para iniciar uma automatização VBA
@@ -295,17 +276,12 @@ Automatização com macros e VBA
 6. Excel: Personalizando e automatizando Tarefas com VBA
 Usando VBA para melhorar a planilha
 
-    O que aprendemos nessa aula:
-
     Como mostrar a Guia “Desenvolvedor”
     Visão geral do Editor de Visual Basic
     Como fazer uma função personalizada no Excel
     Usar o comando condicional IF
     Tipos de dados numéricos (Double e Integer)
     Como usar parâmetros
-
-
-    O que aprendemos nessa aula:
 
     Criar um “User Form” (Formulário)
     Criar controles no formulário
@@ -315,18 +291,12 @@ Usando VBA para melhorar a planilha
     Criar um botão de comando
     Colocar uma ação ao clicar no botão
 
-
-    O que aprendemos nessa aula:
-
     Selecionar múltiplos controles no formulário
     Copiar e colar controles em um formulário
     Alterar a propriedade “TabIndex” e “TabStop”
     Utilizar a propriedade “Default” para um botão de comando
     Criar uma caixa de combinação
     Utilizar o evento “Activate” do formulário
-
-
-    O que aprendemos nessa aula:
 
     Usar as propriedades da caixa de listagem (combo)
     Fazer a declaração de uma variável
@@ -336,10 +306,42 @@ Usando VBA para melhorar a planilha
     Usar o laço de repetição do tipo Do..While
     Alimentar um combo dinamicamente
 
-
-    O que aprendemos nessa aula:
-
     Criar validação de campo para aceitar apenas número
     Utilizar o evento KeyPress para criar validação
     Usar os códigos ASCII para identificar as teclas pressionadas
     Como impedir o usuário de digitar valores indevidos no form
+
+7. Excel: Simulação e Análise de Cenários
+Usando ferramentas para analisar cenários e criação de simulações
+
+    Importar dados CSV.
+    Utilizar a função “MEDIASES”.
+    Como funcionam condicionais com “MEDIASES”.
+    Renomear planilhas.
+    Estilizar células.
+    Nomear células e grupo de células.
+
+    Criar um histograma
+    Atualizar os dados CSV no Excel
+    Utilizar a função MED
+
+    Utilizar a função FIMMÊS
+    Utilizar a função ARRED
+    Utilizar a função SOMARPRODUTO
+    Declarar um erro de validação
+
+    Adicionar comentários em células
+    Proteger a planilha
+    Permitir edição em células com a planilha protegida
+    Utilizar o teste de hipótese
+
+    Gerenciar cenários:
+    Utilizar a função PROCH
+    Utilizar a função ÍNDICE
+    Utilizar a função CORRESP
+    Validar dados nas células
+    Atingir meta de valores
+    
+7. Análise de Dados: Cálculos, padrões e estratégias com Excel
+Usando ferramentas estatísticas do Excel para realizar análise de dados
+
